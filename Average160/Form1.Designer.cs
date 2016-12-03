@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Average160.Properties.Resources.Penguins;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(809, 586);
+            this.ClientSize = new System.Drawing.Size(847, 575);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
